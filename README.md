@@ -33,4 +33,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok0529&layout=compact&theme-anuraghazra)
 
 <!-- GitHub Stats Card -->
-![Hyeonseok0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonseok0529&show_icons=true&theme=anuraghazra)]
+![Hyeonseok0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonseok0529&show_icons=true&theme=anuraghazra)
