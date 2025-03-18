@@ -1,5 +1,4 @@
 <!-- header -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A47764&height=300&section=header&text=HyeonSeok's+Github👋&fontSize=40)
 
 <p align='center'>
@@ -14,9 +13,7 @@
 </p>
 
 <!-- 기술 스택 -->
-
 ## 🖥 Tech Stacks
-
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -32,10 +29,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </P>
 
-<!-- GitHub Stats Card -->
-
-  [![hyeonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonseok0259)](https://github.com/anuraghazra/github-readme-stats)
 <!-- most used languages -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok0529&layout=compact&theme-algolia)
 
+<!-- GitHub Stats Card -->
+![Hyeonseok0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonseok0529&show_icons=true&theme=tokyonight)]
