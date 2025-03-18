@@ -1,5 +1,5 @@
 <!-- header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=A47764&height=300&section=header&text=Welcome+to+HyeonSeok's+ Github!👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A47764&height=300&section=header&text=HyeonSeok's+Github👋%20render&fontSize=90)
 
 <p align='center'>
 <!-- gmail -->
