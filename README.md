@@ -29,4 +29,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </P>
 
+<!-- most used languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok0529&layout=compact&theme-algolia)
+
+<!-- GitHub Stats Card -->
+![Hyeonseok0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonseok0529&show_icons=true&theme=tokyonight)](https://github.com/Hyeonseok0529/github-readme-stats)
