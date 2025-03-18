@@ -8,7 +8,7 @@
 </a>
 <!-- velog -->
 <a href="https://velog.io/@gustjr8293/posts">
-<img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+<img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@gustjr8293/posts"/>
 </a>
 </p>
 
