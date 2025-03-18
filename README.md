@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </P>
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonseok0529&layout=compact&theme-algolia)
