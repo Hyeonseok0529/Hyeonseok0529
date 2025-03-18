@@ -1,4 +1,4 @@
 
-<a
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustjr8293@gmail.com)
-
+<a>
+<img src="https://img.shields.io/badge/gustjr8293@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
