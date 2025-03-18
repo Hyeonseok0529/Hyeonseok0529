@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO-COLOR>"/>
+<img src="https://img.shields.io/badge/ysa8497@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
